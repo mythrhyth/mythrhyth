@@ -1,18 +1,21 @@
 <!-- GitHub Profile README - Rhythm Bhetwal -->
 
-<h1 align="center">Hey there, I'm Rhythm! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=Machine+Learning+Enthusiast+%F0%9F%A4%96;Computer+Science+%26+Engineering+Student+%F0%9F%92%BB;Code.+Learn.+Repeat.+%F0%9F%AA%96;Python+Wizard+%F0%9F%90%8D;Data+Visualizer+%F0%9F%93%88;AI+Explorer+%F0%9F%A7%A0" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&width=435&lines=Machine+Learning+Enthusiast🤖;Data+Alchemist🔮;AI+Explorer🧠;Pythonic+Dreamer🐍" />
+  <img src="https://raw.githubusercontent.com/mythrhyth/mythrhyth/main/banner.svg" alt="Banner" />
 </p>
 
 ---
 
 ### 🌟 About Me
 
-💻 I'm a curious **tech explorer**, passionate about transforming ideas into reality with code.  
-🧠 Diving deep into the world of **AI, ML, and Deep Learning**.  
-📚 Currently sharpening my skills in **time series analysis**, **NLP**, and **model deployment**.
+🎓 I'm a **Computer Science and Engineering** student at **National Institute of Technology, Meghalaya (NITM)**.  
+💻 A curious **tech explorer**, passionate about transforming ideas into reality with code.  
+🧠 Currently diving deep into **AI, Machine Learning**, and **Time Series Forecasting**.  
+🚀 Always looking to build **impactful, creative projects** with a blend of logic and artistry.
 
 ---
 
@@ -20,17 +23,22 @@
 
 **Languages & Tools**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frameworks & Libraries**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-46b5d1?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 
 ---
 
