@@ -14,7 +14,7 @@
 
 🎓 I'm a **Computer Science and Engineering** student at **National Institute of Technology, Meghalaya (NITM)**.  
 💻 A curious **tech explorer**, passionate about transforming ideas into reality with code.  
-🧠 Currently diving deep into **AI, Machine Learning**, and **Time Series Forecasting**.  
+🧠 Currently diving deep into **GenAI, Deep Learning, Machine Learning**, and **Time Series Forecasting**.  
 🚀 Always looking to build **impactful, creative projects** with a blend of logic and artistry.
 
 ---
