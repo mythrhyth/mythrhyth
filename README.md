@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=Machine+Learning+Enthusiast+%F0%9F%A4%96;Computer+Science+%26+Engineering+Student+%F0%9F%92%BB;Code.+Learn.+Repeat.+%F0%9F%AA%96;Python+Wizard+%F0%9F%90%8D;Data+Visualizer+%F0%9F%93%88;AI+Explorer+%F0%9F%A7%A0" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://raw.githubusercontent.com/mythrhyth/mythrhyth/main/banner.svg" alt="Banner" />
-</p>
+</p> -->
 
 ---
 
