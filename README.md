@@ -20,7 +20,7 @@
 
 # About Me
 
-I'm **Rhythm Bhetwal**, a Computer Science undergraduate at **National Institute of Technology Meghalaya** with a passion for designing intelligent systems that bridge cutting-edge AI research and production software.
+I'm **Rhythm Bhetwal**, a Computer Science undergraduate at **National Institute of Technology Meghalaya** with a passion for designing intelligent systems that bridge  AI research and production software.
 
 Currently,
 
@@ -32,32 +32,6 @@ I enjoy building AI systems that are not only technically interesting but also p
 
 ---
 
-# Current Focus
-
-* Building production-ready AI applications
-* Exploring Large Language Models
-* AI Agents & Agentic Workflows
-* Retrieval-Augmented Generation (RAG)
-* Medical AI
-* Backend Engineering
-* AI Infrastructure & MLOps
-
----
-
-# Research Interests
-
-* Large Language Models
-* Deep Learning
-* AI Research
-* Medical AI
-* Time Series Forecasting
-* AI Security
-* Retrieval-Augmented Generation
-* Multimodal AI
-* Explainable AI
-
----
-
 # Tech Stack
 
 <p align="center">
@@ -66,29 +40,6 @@ I enjoy building AI systems that are not only technically interesting but also p
 
 </p>
 
----
-
-# Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/mythrhyth/PROJECT_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mythrhyth&repo=PROJECT_1&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/mythrhyth/PROJECT_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mythrhyth&repo=PROJECT_2&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/mythrhyth/PROJECT_3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mythrhyth&repo=PROJECT_3&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/mythrhyth/PROJECT_4">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mythrhyth&repo=PROJECT_4&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
 
 ---
 
