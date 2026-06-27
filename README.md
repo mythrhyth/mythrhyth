@@ -18,7 +18,7 @@
 
 ---
 
-# About Me
+## About Me
 
 I'm **Rhythm Bhetwal**, a Computer Science undergraduate at **National Institute of Technology Meghalaya** with a passion for designing intelligent systems that bridge  AI research and production software.
 
@@ -32,7 +32,7 @@ I enjoy building AI systems that are not only technically interesting but also p
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -43,7 +43,7 @@ I enjoy building AI systems that are not only technically interesting but also p
 
 ---
 
-# GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
 
@@ -61,7 +61,7 @@ I enjoy building AI systems that are not only technically interesting but also p
 
 ---
 
-# Contribution Activity
+## Contribution Activity
 
 <p align="center">
 
