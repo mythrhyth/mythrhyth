@@ -69,18 +69,7 @@ I enjoy building AI systems that are not only technically interesting but also p
 
 </p>
 
----
-# Let's Connect
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/rhythm-bhetwal-957a7826a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:rhythmbhetwal77@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 </p>
 
